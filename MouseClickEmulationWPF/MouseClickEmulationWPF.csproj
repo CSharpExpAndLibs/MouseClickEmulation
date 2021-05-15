@@ -98,7 +98,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\HotKeyDist\NativeMethods\NativeUtils.csproj">
+    <ProjectReference Include="..\NativeMethods\NativeUtils.csproj">
       <Project>{a5093e6e-4a3f-454c-aa4b-b5f8f88b4fd2}</Project>
       <Name>NativeUtils</Name>
     </ProjectReference>

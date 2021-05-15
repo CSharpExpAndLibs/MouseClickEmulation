@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseClickEmulation", "Mous
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseClickEmulationWPF", "MouseClickEmulationWPF\MouseClickEmulationWPF.csproj", "{8F953C7C-C886-4094-82D8-8A735B738726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeUtils", "..\HotKeyDist\NativeMethods\NativeUtils.csproj", "{A5093E6E-4A3F-454C-AA4B-B5F8F88B4FD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeUtils", "NativeMethods\NativeUtils.csproj", "{A5093E6E-4A3F-454C-AA4B-B5F8F88B4FD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
